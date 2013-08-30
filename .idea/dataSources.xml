@@ -3,8 +3,8 @@
   <component name="DataSourceManagerImpl" format="xml" hash="354632048">
     <data-source source="LOCAL" name="Rails sample_app: development" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="185fcfe2-51ca-4235-89cd-1e5b4b8845e7">
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql:sample_app</jdbc-url>
-      <user-name>postgres</user-name>
+      <jdbc-url>jdbc:postgresql:sample_app_development</jdbc-url>
+      <user-name>sample_app</user-name>
       <libraries>
         <library>
           <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/postgresql-driver-license.txt</url>
@@ -16,8 +16,8 @@
     </data-source>
     <data-source source="LOCAL" name="Rails sample_app: production" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="c6aaf3ee-e282-48ad-9734-05b1a211df11">
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql:sample_app</jdbc-url>
-      <user-name>postgres</user-name>
+      <jdbc-url>jdbc:postgresql:sample_app_production</jdbc-url>
+      <user-name>sample_app</user-name>
       <libraries>
         <library>
           <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/postgresql-driver-license.txt</url>
@@ -29,8 +29,8 @@
     </data-source>
     <data-source source="LOCAL" name="Rails sample_app: test" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="5641ed2c-c600-402e-a8e6-b1440307b737">
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql:sample_app</jdbc-url>
-      <user-name>postgres</user-name>
+      <jdbc-url>jdbc:postgresql:sample_app_test</jdbc-url>
+      <user-name>sample_app</user-name>
       <libraries>
         <library>
           <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/postgresql-driver-license.txt</url>
